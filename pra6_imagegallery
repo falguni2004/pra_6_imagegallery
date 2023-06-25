@@ -1,0 +1,85 @@
+INDEX:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Gallery</title>
+    <style>
+        body{
+            background-image: linear-gradient(120deg, #d4fc79 0%, #96e6a1 100%);
+        }
+    </style>
+</head>
+<body>
+    <center>
+        <h1>IMAGE GALLERY</h1>
+        <a target="_blank" href="tree.html">tree image</a><br>
+        <a target="_blank" href="animal.html">animal image</a><br>
+        <a target="_blank" href="car.html">car image</a><br>
+    </center>
+</body>
+</html>
+
+
+
+TREE:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tree Image</title>
+</head>
+<body>
+    <center><h2 style="color: blue;">TREE IMAGES</h2> <br>
+    <img width="300px" src="img3/1.jpg" alt=""><br>
+    <img width="300px" src="img3/2.jpg" alt=""><br>
+    <img width="300px" src="img3/3.jpg" alt=""><br>
+</center>
+</body>
+</html>
+
+
+
+CAR:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Car Image</title>
+</head>
+<body>
+    <center><h2 style="color: cadetblue;">CAR IMAGES</h2> <br>
+    <img width="300px" src="img2/1.jpg" alt=""><br>
+    <img width="300px" src="img2/2.jpg" alt=""><br>
+    <img width="300px" src="img2/3.jpg" alt=""><br>
+</center>
+</body>
+</html>
+
+
+
+ANIMAL:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animal Image</title>
+</head>
+<body>
+    <center><h2 style="color: brown;">ANIMAL IMAGES</h2> <br>
+    <img width="300px" src="img1/1.jpg" alt=""><br>
+    <img width="300px" src="img1/2.jpg" alt=""><br>
+    <img width="300px" src="img1/3.jpg" alt=""><br>
+</center>
+</body>
+</html>
+
+
+
+
+
+
